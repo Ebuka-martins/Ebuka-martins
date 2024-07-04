@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my Full Stack Software Engineering Diploma from Code Institute
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT PYTHON and DJANGO
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT PYTHON DJANGO and PREDICTIVE ANALYTICS
 - 👯 I’m looking to collaborate 
 <!-- 
 - 💬 Ask me about ...
