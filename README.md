@@ -12,3 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr>
+
+![Snake animation](https://github.com/VCGithubCode/VCGithubCode/blob/output/github-contribution-grid-snake-dark.svg)
+
+<hr>
