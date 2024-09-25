@@ -26,6 +26,11 @@ Either I have built something with, or have an interest in being able to work wi
 
 <hr>
 
+# Hackathons: 
+
+Participating in my first Hackathon with Code Institute offers numerous professional benefits. It demonstrates my ability to work under pressure, solve complex problems, and collaborate with a team in a fast-paced environment. Hackathons provide a platform to apply and refine coding skills in real-world scenarios, enhance creativity in developing innovative solutions, and improve time management. Moreover, it fosters networking opportunities, allowing you to connect with like-minded professionals and potential employers. Overall, the experience boosts your portfolio and showcases your commitment to continuous learning and growth in the tech industry.
+
+
 <hr>
 
 ![Snake animation](https://github.com/VCGithubCode/VCGithubCode/blob/output/github-contribution-grid-snake-dark.svg)
