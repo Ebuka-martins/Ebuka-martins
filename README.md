@@ -37,6 +37,13 @@ Either I have built something with, or have an interest in being able to work wi
 | <a href="https://miles-and-smiles-03ded9dd0f57.herokuapp.com" target="_blank" rel="noopener noreferrer"><img src="febuary-2024-official-announcement.webp" width="250"></a> |
 | <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FSwY_-ArdT7eY9SNg6B-_Zw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-SwY_-ArdT7eY9SNg6B-_Zw.png?versionId=0Hmu3Sc7V4SN31m85jDuNjo2TssAsL0d"></a> |<br>
 
+|  May 2025  |
+| :----------: |
+| Uncle Tech |
+| Readme Master |
+| <a href="https://miles-and-smiles-03ded9dd0f57.herokuapp.com" target="_blank" rel="noopener noreferrer"><img src="febuary-2024-official-announcement.webp" width="250"></a> |
+| <a href="https://badgecheck.io/?url=https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2FSwY_-ArdT7eY9SNg6B-_Zw%3Fidentity__email%3Dvernellclark%2540hotmail.com&identity__email=vernellclark%40hotmail.com"><img width="120px" height="120px" src="https://media.eu.badgr.com/uploads/badges/assertion-SwY_-ArdT7eY9SNg6B-_Zw.png?versionId=0Hmu3Sc7V4SN31m85jDuNjo2TssAsL0d"></a> |<br>
+
 
 <hr>
 
